@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RC</string>
+    <string name="main_message">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu ex nibh. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris sagittis placerat velit et fermentum. Nam ut tristique nunc. Nam lobortis dictum scelerisque. Cras eu massa euismod, scelerisque nisl vel, fringilla mi. Aenean at elit id nunc ultrices egestas. Morbi vel congue elit. Proin pellentesque placerat turpis, non sodales enim congue non. Nulla quis mauris a metus viverra pulvinar et faucibus metus. Maecenas urna elit, iaculis a pharetra vitae, fermentum a sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla consectetur et enim venenatis tempus</string>
+    <string name="maintext">Main text</string>
+</resources>
